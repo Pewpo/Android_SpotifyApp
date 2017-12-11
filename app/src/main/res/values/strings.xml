@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpotifyApp</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="playing_msg">Play song \n \n</string>
+    <string name="searchTracks">Search tracks here!</string>
+    <string name="searchTracksButton">Search</string>
+    <string name="newSongAdded">New song added to playlist</string>
+    <string name="selectTrackMsg">Select Track</string>
+    <string name="addedToPlaylist">added to playlist!</string>
+    <string name="noSearchResults">No search results</string>
+</resources>
